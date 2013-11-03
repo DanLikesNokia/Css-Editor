@@ -1,4 +1,4 @@
 Css-Editor
 ==========
 
-CSS EDITOR
+CSS EDITOR is an real-time css editor.
